@@ -1,0 +1,36 @@
+h1 {
+    color: #bef200;
+    background-color: rgb(15, 131, 31);
+    border: 2px solid rgb(94, 12, 12);
+  }
+  
+  #Guacamole {
+    font-family: "Gill Sans", sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  #Guacamole td,
+  #Guacamole th {
+    border: 2px solid rgb(94, 12, 12);
+    padding: 16px;
+  }
+  
+  #Guacamole tr:nth-child(even) {
+    background-color: #bef200;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+  
+  #Guacamole tr:hover {
+    background-color: #ddd;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  
+  #Guacamole th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: rgb(15, 131, 31);
+    color: #bef200;
+  }
+  
